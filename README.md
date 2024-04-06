@@ -7,6 +7,7 @@
 > Alimune software that allows you to bypass copy protection or license restrictions in the launcher of a game or program. This allows users to run and use the program without having to purchase a license or activation key.
 
 ### Showcase
+![image](https://github.com/Mokro2/Roblox/assets/166233160/af1faefc-8ad0-41b1-b731-0ce9e6f4d9d0)
 
  
 ### How It Works:
